@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="?attr/selectableItemBackground"
+    android:foreground="?attr/selectableItemBackground"
+    tools:context="com.prakash.foursquare.Activity.VenuePhotoActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+    </android.support.design.widget.AppBarLayout>
+
+
+    <ImageButton
+        android:id="@+id/bookmark_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_favorite_border_black_24dp"
+        android:background="@color/white"
+        android:layout_marginTop="56dp"
+        android:layout_centerHorizontal="true"
+
+        />
+
+    <fragment
+        android:id="@+id/venue_photo_fragment"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        tools:layout="@layout/fragment_venue_photo"
+        android:name="com.prakash.foursquare.Fragment.VenuePhotoFragment"
+        android:layout_below="@id/bookmark_button"
+        android:layout_centerVertical="true"
+        />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieClear"
+        android:layout_width="290dp"
+        android:layout_height="290dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="124dp"
+        android:scaleType="centerCrop" />
+
+
+
+</RelativeLayout>

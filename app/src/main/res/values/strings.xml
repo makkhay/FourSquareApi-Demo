@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Explore City</string>
+    <string name="select_city_text">Select a City</string>
+    <string name="popular_venues_text">Explore Popular Venues</string>
+
+    <string name="bookmark_text">Liked</string>
+    <string name="category_food_text">Food</string>
+    <string name="category_outdoors_text">Outdoors</string>
+    <string name="category_arts_text">Arts</string>
+
+    <string name="slide1_title">Welcome to FourSquare</string>
+    <string name="slide1_desc">Developed by Prakash </string>
+    <string name="slide2_title">Instructions</string>
+    <string name="slide2_desc">Select a city\nSelect a venue\nEnjoy the pictures\ :-)\n</string>
+
+    <string name="get_started_button">Get Started</string>
+    <string name="password">com.prakash.foursquare.psswd</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="city_explorer_tv1">City Explorer</string>
+    <string name="boarding_one_tv">Find what to do right now..</string>
+    <string name="bookmark_it">Bookmark It!</string>
+    <string name="boarding_two_tv">Bookmark your favorite place</string>
+    <string name="boarding_three_firstTV">Yay!!</string>
+    <string name="let_s_get_started">Let\'s get Started :)</string>
+
+</resources>
