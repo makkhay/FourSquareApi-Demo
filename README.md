@@ -29,27 +29,19 @@ A simple app to explore cities using FourSquareAPI.
 
 ## Demo and Screenshots
 
-![chat_demo](https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/first_gifff.gif)
+![app_demo](https://github.com/makkhay/FourSquareApi-Demo/blob/master/first_giffffffff.gif)
 
 <div style={{display: flex; flex-direction: row}}>
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/onboarding.png" width="270" />
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/nav_menu.png" width="270" />
+  <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/cover.png" width="270" />
+  <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/first.png" width="270" />
 
 </div>
 
 <div style={{display: flex; flex-direction: row}}>
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/login.png" width="270" />
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/register.png" width="270" />
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/phone_register.png" width="270" />
- 
-</div>
+  <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/second.png" width="270" />
+  <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/third.png" width="270" />
 
-<div style={{display: flex; flex-direction: row}}>
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/chat.png" width="270" />
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/dashboard.png" width="270" />
-  <img src="https://github.com/makkhay/FirebaseAI-Android-Chat-App/blob/master/barchart.png" width="270" />
 </div>
-
 
 ### TODO Part 1
 - [x] show a list of 5 cities of your choice. 
