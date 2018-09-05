@@ -52,7 +52,8 @@ A simple app to explore cities using FourSquareAPI.
 
 
 ### TODO Part 1
-- [x] show a list of 5 cities of your choice. once a city is clicked, it will take user to screen two.
+- [x] show a list of 5 cities of your choice. 
+- [x] Once a city is clicked, it will take user to screen two.
 ### TODO Part 2 
 - [x] show a list of 25 locations / venue.
 - [x] Each item on the list should contain the venue name, a thumbnail image, location  and categories information.
