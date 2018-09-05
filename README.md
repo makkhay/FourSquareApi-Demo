@@ -32,13 +32,8 @@ A simple app to explore cities using FourSquareAPI.
 ![app_demo](https://github.com/makkhay/FourSquareApi-Demo/blob/master/first_giffffffff.gif)
 
 <div style={{display: flex; flex-direction: row}}>
-  <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/cover.png" width="270" />
   <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/first.png" width="270" />
-
-</div>
-
-<div style={{display: flex; flex-direction: row}}>
-  <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/second.png" width="270" />
+   <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/second.png" width="270" />
   <img src="https://github.com/makkhay/FourSquareApi-Demo/blob/master/third.png" width="270" />
 
 </div>
